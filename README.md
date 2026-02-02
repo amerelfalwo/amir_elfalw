@@ -37,26 +37,3 @@ I love sharing knowledge, collaborating on innovative projects, and mentoring be
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/) &nbsp;
 [![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
 
----
-
-# Projects
-[![YOLOv8 - Real-Time Object Detection](https://img.shields.io/badge/YOLOv8-Embedded-blue?style=for-the-badge)](https://github.com/amir-elfalw/YOLO-Embedded) &nbsp;
-[![U-Net Semantic Segmentation](https://img.shields.io/badge/U--Net-Segmentation-red?style=for-the-badge)](https://github.com/amir-elfalw/Segmentation-Project) &nbsp;
-[![Face Recognition System](https://img.shields.io/badge/Face-Recognition-green?style=for-the-badge)](https://github.com/amir-elfalw/Face-Recog) &nbsp;
-[![Embedded AI Camera](https://img.shields.io/badge/IoT-Camera-purple?style=for-the-badge)](https://github.com/amir-elfalw/IoT-Camera)
-
----
-
-# GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=amerelfalwo&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150" style="margin-right:10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerelfalwo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="150" style="margin-right:10px;"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=amerelfalwo&theme=tokyonight&hide_border=false" alt="Streak Stats" height="150"/>
-
-</div>
-
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=amerelfalwo&icon=0&color=0)](https://visitcount.itsvg.in)
